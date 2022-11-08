@@ -1,5 +1,5 @@
 # DeadServerTracker
-DeadServerTracker (which needs a better name, ha) pings the specefied hosts every specefied amount of minutes. When the host is dead, it adds it to the database (MongoDB), and sends a text using Tiwlio to the specefied cell number.
+DeadServerTracker pings the specefied hosts every specefied amount of minutes. When the host is dead, it adds it to the database (MongoDB), and sends a text using Tiwlio to the specefied cell number.
 
 
 ## How to run & config
